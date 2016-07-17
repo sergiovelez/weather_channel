@@ -1,0 +1,13 @@
+html {
+  	background: url('http://www.photofurl.com/wp-content/uploads/2008/11/beautiful_mountain_wallpaper.jpg') no-repeat center center fixed;
+color: white;
+}
+
+main {
+  margin-left: 500px;
+  margin-top: 300px;
+}
+
+.temperature {
+  font-size: 50px;
+}
